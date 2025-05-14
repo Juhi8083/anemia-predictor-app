@@ -22,7 +22,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "4dc4cba3-8954-4d36-80ac-22ed8fab48c8",
    "metadata": {},
    "outputs": [],
@@ -32,7 +32,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "e60c3caf-af55-4b3a-99ee-f870b2534c1c",
    "metadata": {},
    "outputs": [],
@@ -42,7 +42,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "368b1713-02d9-4bfc-9607-53e551d5976a",
    "metadata": {},
    "outputs": [],
@@ -52,7 +52,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "ec6d85c6-3be2-44a7-9bdb-e63ec1215a18",
    "metadata": {},
    "outputs": [],
@@ -66,7 +66,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "3e0fbf89-25f1-4422-96e4-6b3badb5f1c2",
    "metadata": {},
    "outputs": [],
@@ -77,7 +77,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "888f2ae9-dc56-4485-8a96-1d54e8c39e6b",
    "metadata": {},
    "outputs": [],
@@ -149,7 +149,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "c753209a-f2d7-4486-af12-65771d5b6b0a",
    "metadata": {},
    "outputs": [],
